@@ -1,206 +1,272 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/about.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://blog.nrb-deungchon-guide.xyz/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://blog.nrb-deungchon-guide.xyz/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260707-0682.html</loc>
-    <lastmod>2026-07-07</lastmod>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/checklist-003-12w6uys.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260707-0684.html</loc>
-    <lastmod>2026-07-07</lastmod>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/checklist-003-18igob9.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260707-0686.html</loc>
-    <lastmod>2026-07-07</lastmod>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/checklist-003-1pxrjrt.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260707-0688.html</loc>
-    <lastmod>2026-07-07</lastmod>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/checklist-004-1h7o1c5.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/compare-002-2v05yi.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/compare-002-d8bk2a.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/compare-002-y5cixh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/compare-003-6w8ym7.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/compare-003-8v9p9i.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/field_note-001-bk5f3d.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260707-0681.html</loc>
-    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260707-0682.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260707-0683.html</loc>
-    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260707-0684.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260707-0685.html</loc>
-    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260707-0686.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260707-0687.html</loc>
-    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260707-0688.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260707-0689.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260721-0297.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260721-0298.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260721-0299.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260721-0300.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260721-0301.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260721-0302.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260721-0303.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260721-0304.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260721-0305.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260721-0306.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260721-0307.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260722-0089.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260722-0090.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260722-0091.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260722-0092.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260722-0093.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260722-0094.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260722-0095.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260722-0096.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260722-0097.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260722-0098.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.nrb-deungchon-guide.xyz/posts/gemini-coverage-20260722-0099.html</loc>
-    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/guide-001-85c43m.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/guide-001-xga8za.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/myth-005-t2nq9c.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/qa-001-1wg4ie9.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/qa-001-flrool.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/qa-001-vble34.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/qa-002-1wzd8s9.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/qa-002-rrtnu1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/review-001-1vyrhst.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/review-001.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-deungchon-guide.xyz/posts/review-002.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
